@@ -12,7 +12,7 @@ FPX Payment Integration for WPSmartPay plugin adds support for Malaysia's local 
 
 ### Setup process:
 1. Install and activate [WPSmartPay](https://wordpress.org/plugins/smartpay).
-2. Install and activate [FPX Payment Integration for WPSmartPay]() plugin.
+2. Install and activate [FPX Payment Integration for WPSmartPay](https://github.com/alvindcaesar/fpx-gateway-smartpay/releases/download/v0.0.1-beta1/fpx-smartpay.zip) plugin.
 3. In WordPress admin, go to `SmartPay > Settings > Payment Gateways` and tick the Billplz checkbox and click `Save Changes`. Proceed to Billplz tab and enter your payment gateway API key details. *(For now only Billplz is available).*
 
 <p><img src="./.github/smartpay-settings.png"></p>
